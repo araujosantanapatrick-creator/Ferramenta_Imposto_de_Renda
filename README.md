@@ -34,3 +34,6 @@ A ferramenta tem finalidade organizacional e não substitui os sistemas oficiais
 Patrick Araujo Santana
 
 Projeto desenvolvido para fins educacionais como parte de um desafio da DIO.
+## 📸 Captura de tela
+
+![Organizador de Imposto de Renda](organizador-imposto-renda.png)
